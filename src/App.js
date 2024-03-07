@@ -6,7 +6,7 @@ function App() {
   const [displayText, setDisplayText] = useState(false);
 
   const textToDisplay = <div className="display-text">Right Meow!💥😸</div>;
-  const bombButtonTitle = 'CLICK BUTTON 💣';
+  const bombButtonTitle = 'CLICK BUTTONS 💣';
 
   return (
     <div className="App">
